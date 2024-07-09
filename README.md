@@ -1,0 +1,1 @@
+This project consists of two servers. Run `npm start` in the `http` and `websocket` directories to start the respective server.
